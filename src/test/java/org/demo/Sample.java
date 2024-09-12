@@ -33,12 +33,20 @@ public class Sample {
 		System.out.println("sample6");
 	}
 	
+	public void tc7() {
+		System.out.println("sample7");
+	}
+	
+	public void tc8() {
+		System.out.println("sample8");
+	}
+	
 	public void tc9() {
 		System.out.println("sample9");
 	}
 	
 	public void tc10() {
 		System.out.println("sample10");
-	}
+	}	
 
 }
