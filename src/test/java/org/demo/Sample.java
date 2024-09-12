@@ -40,5 +40,13 @@ public class Sample {
 	public void tc8() {
 		System.out.println("sample8");
 	}
+	
+	public void tc9() {
+		System.out.println("sample9");
+	}
+	
+	public void tc10() {
+		System.out.println("sample10");
+	}	
 
 }
