@@ -20,5 +20,17 @@ public class Sample {
 		a.tc2();
 		a.tc3();
 	}
+	
+	public void tc4() {
+		System.out.println("sample4");
+	}
+	
+	public void tc5() {
+		System.out.println("sample5");
+	}
+	
+	public void tc6() {
+		System.out.println("sample6");
+	}
 
 }
